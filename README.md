@@ -78,10 +78,8 @@ Json 데이터 크롤링 -> 프로모션 진행정보 수집, 마감할인 정�
 <img width="1067" alt="KakaoTalk_Photo_2024-02-01-18-38-24" src="https://github.com/junhyeong7788/-CO-UP-Campus-Kakao-CHATBOT-HACKATHON/assets/114178402/e1b04804-9324-4fa1-b497-5dc3b1db152b">
 
 ### 비즈니스 모델
-<img width="723" alt="스크린샷 2024-02-01 18 39 54" src="https://github.com/junhyeong7788/-CO-UP-Campus-Kakao-CHATBOT-HACKATHON/assets/114178402/cfc660f8-c65e-420f-b811-0c3218fc65a7">
-
 <p align="center">
-  <img src="https://github.com/junhyeong7788/-CO-UP-Campus-Kakao-CHATBOT-HACKATHON/assets/114178402/cfc660f8-c65e-420f-b811-0c3218fc65a7" width="60%" height="60%"/>
+  <img src="https://github.com/junhyeong7788/-CO-UP-Campus-Kakao-CHATBOT-HACKATHON/assets/114178402/cfc660f8-c65e-420f-b811-0c3218fc65a7" width="90%" height="90%"/>
 </p>
 
 
