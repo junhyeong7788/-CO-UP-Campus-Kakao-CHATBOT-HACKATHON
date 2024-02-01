@@ -48,9 +48,13 @@
 (3) 카카오맵 앱 이동 : 원하는 식당의 마커 선태깃 카카오맵으로 이동하여 가게 상세정보를 확인가능함
 (4) CHATGPT : 음식카테고리 내 원하는게 없으면, chatGPT와의 대화를 통해 어떤 음식을 추천받고 싶은지 자세한 오더 가능함
 
-![KakaoTalk_Photo_2024-02-02-00-03-51 002](https://github.com/junhyeong7788/CO-UP-Campus-Kakao-CHATBOT-HACKATHON/assets/114178402/a7c83c28-b9f7-4da5-9746-9129503b2a8f)
-![KakaoTalk_Photo_2024-02-02-00-03-52 003](https://github.com/junhyeong7788/CO-UP-Campus-Kakao-CHATBOT-HACKATHON/assets/114178402/38531e73-c479-477c-865f-46c410b39035)
+<p align="center">
+  <img src="https://github.com/junhyeong7788/CO-UP-Campus-Kakao-CHATBOT-HACKATHON/assets/114178402/a7c83c28-b9f7-4da5-9746-9129503b2a8f" width="60%" height="60%"/>
+</p>
 
+<p align="center">
+  <img src="https://github.com/junhyeong7788/CO-UP-Campus-Kakao-CHATBOT-HACKATHON/assets/114178402/38531e73-c479-477c-865f-46c410b39035" width="60%" height="60%"/>
+</p>
 
 
 할인/이벤트 매장 : 주변 진행중인 프로모션에 대한 정보를 한 눈에 정리해주는 활용도 높은 기능 탑재
@@ -60,8 +64,9 @@
 마감할인 매장 : 마감할인매장 소개 기능을 이용한 소상공인 비용손실감소 및 소비자 구매심리 연결
 (1) : 편리한 원터치 마감할인정보 확인
 
-![KakaoTalk_Photo_2024-02-02-00-03-51 001](https://github.com/junhyeong7788/CO-UP-Campus-Kakao-CHATBOT-HACKATHON/assets/114178402/cc40dead-3bde-479d-b5f2-14fb8b9f7fcf)
-
+<p align="center">
+  <img src="https://github.com/junhyeong7788/CO-UP-Campus-Kakao-CHATBOT-HACKATHON/assets/114178402/cc40dead-3bde-479d-b5f2-14fb8b9f7fcf" width="60%" height="60%"/>
+</p>
 
 ### 적용스킬
 
