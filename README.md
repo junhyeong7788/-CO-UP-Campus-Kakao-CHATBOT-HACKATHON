@@ -1,4 +1,4 @@
-# CO-UP Campus CHATBOT HACKATHON 경진대회
+<img width="1067" alt="KakaoTalk_Photo_2024-02-01-18-38-24" src="https://github.com/junhyeong7788/-CO-UP-Campus-Kakao-CHATBOT-HACKATHON/assets/114178402/e1b04804-9324-4fa1-b497-5dc3b1db152b"># CO-UP Campus CHATBOT HACKATHON 경진대회
 
 ### 지자체, 대학 협력기반 지역혁신 사업 창업 실전 교육
 
@@ -63,8 +63,7 @@ ChatGPT -> chatGPT api를 사용하여 연동, 챗봇 스킬 적용 (카카오 A
 Json 데이터 크롤링 -> 프로모션 진행정보 수집, 마감할인 정보 수집
 
 #### 개발환경
-
-![[Pasted image 20240201174659.png]]
+![Uploading KakaoTalk_Photo_2024-02-01-18-38-24.png…]()
 
 #### 비즈니스 모델
 
