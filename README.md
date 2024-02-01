@@ -80,6 +80,11 @@ Json 데이터 크롤링 -> 프로모션 진행정보 수집, 마감할인 정�
 ### 비즈니스 모델
 <img width="723" alt="스크린샷 2024-02-01 18 39 54" src="https://github.com/junhyeong7788/-CO-UP-Campus-Kakao-CHATBOT-HACKATHON/assets/114178402/cfc660f8-c65e-420f-b811-0c3218fc65a7">
 
+<p align="center">
+  <img src="https://github.com/junhyeong7788/-CO-UP-Campus-Kakao-CHATBOT-HACKATHON/assets/114178402/cfc660f8-c65e-420f-b811-0c3218fc65a7" width="60%" height="60%"/>
+</p>
+
+
 ### 배운 점
 
 카카오비즈니스 오픈빌더를 통해 아주 쉽게 카카오챗봇을 만들 수 있었습니다.  
